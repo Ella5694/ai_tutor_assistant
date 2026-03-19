@@ -3,3 +3,4 @@ requests
 zhipuai
 PyMuPDF
 python-docx
+sniffio
