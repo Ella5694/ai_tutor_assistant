@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 requests
 zhipuai
@@ -5,3 +6,11 @@ PyMuPDF
 python-docx
 sniffio
 python-dotenv
+=======
+streamlit
+requests
+zhipuai
+PyMuPDF
+python-docx
+sniffio
+>>>>>>> e76c5e3b6acb5824a2a741d4cf884d8e526286c2
